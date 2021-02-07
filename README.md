@@ -7,11 +7,18 @@ Application supports both light&dark modes.
 ## Screenshots
 
 ######  Listing Page
-<img src="https://i.imgyukle.com/2021/02/07/Lo1Yms.png"  width="220" height="480" />
+<p float="left">
+  <img src="https://i.imgyukle.com/2021/02/07/Lo1Yms.png"  width="220" height="480" />
 
-<img src="https://i.imgyukle.com/2021/02/07/Lo1a6Q.png"  width="220" height="480" />
+  <img src="https://i.imgyukle.com/2021/02/07/Lo1a6Q.png"  width="220" height="480" />
+</p>
 
 ######  Detail Page
-<img src="https://i.imgyukle.com/2021/02/07/LoKiX1.png"  width="220" height="480" />
+<p float="left">
+  <img src="https://i.imgyukle.com/2021/02/07/LoKiX1.png"  width="220" height="480" />
 
-<img src="https://i.imgyukle.com/2021/02/07/LoKseI.png"  width="220" height="480" />
+  <img src="https://i.imgyukle.com/2021/02/07/LoKseI.png"  width="220" height="480" />
+</p>
+
+
+
